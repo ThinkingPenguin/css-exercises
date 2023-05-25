@@ -1,0 +1,21 @@
+.peach-bgcolor{
+    background-color: #f3a3a3;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    
+}
+
+
+#big-size-blue{
+    color: rgb(0, 0, 255);
+    font-size: 32px;
+}
+
+.adjust-font-size{
+    font-size: 24px;
+}
+
+#number-four{
+    background-color: rgb(85, 233, 85);
+    font-weight: bold;
+
+}
